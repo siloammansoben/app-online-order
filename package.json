@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@ionic/react": "^7.5.3",
+    "ionicons": "^7.2.1",
+    "react-router-dom": "^6.18.0"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  }
+}
